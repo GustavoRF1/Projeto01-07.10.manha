@@ -28,3 +28,6 @@ else
         Console.WriteLine("O triângulo é escaleno");
     }
 }
+
+Console.WriteLine("Pressione qualuqer tecla para sair...");
+Console.ReadLine();
